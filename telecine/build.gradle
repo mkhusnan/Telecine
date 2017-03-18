@@ -6,7 +6,7 @@ def versionBuild = 0 // bump for dogfood builds, public betas, etc.
 
 buildscript {
   dependencies {
-    classpath 'com.android.tools.build:gradle:2.2.3'
+    classpath 'com.android.tools.build:gradle:2.3.0'
   }
 }
 
